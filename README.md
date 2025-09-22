@@ -1,4 +1,5 @@
 # CAPTCHA Generation and Recognition with CNN for https://electoralsearch.eci.gov.in/
+
 ### This repository demonstrates the process of generating CAPTCHA images and training a Convolutional Neural Network (CNN) to recognize the text within them. The project includes scripts for data labeling, model training, and testing, providing a comprehensive pipeline for CAPTCHA recognition tasks.
 
 ##  Project Structure
@@ -60,6 +61,7 @@ Replace `path_to_image.png` with the path to the image you wish to test.
 ##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
