@@ -2,7 +2,7 @@
 
 This repository demonstrates the process of generating CAPTCHA images and training a Convolutional Neural Network (CNN) to recognize the text within them. The project includes scripts for data labeling, model training, and testing, providing a comprehensive pipeline for CAPTCHA recognition tasks.
 
-## 👂 Project Structure
+##  Project Structure
 
 ```
 captcha/
@@ -16,7 +16,7 @@ captcha/
 └── .gitattributes            # Git attributes for handling binary files
 ```
 
-## ⚙️ Installation
+## ⚙Installation
 
 Clone the repository and install the necessary dependencies:
 
@@ -26,7 +26,7 @@ cd captcha
 pip install -r requirements.txt
 ```
 
-## 🧢 Usage
+##  Usage
 
 ### 1. Labeling CAPTCHA Images
 
@@ -58,6 +58,7 @@ python test_img.py --image path_to_image.png
 
 Replace `path_to_image.png` with the path to the image you wish to test.
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
